@@ -1,0 +1,5 @@
+{
+  "name": "ocscanary-repro",
+  "version": "1.0.0",
+  "bin": {"ocscanary-repro": "./run.sh"}
+}
